@@ -8,7 +8,7 @@ import {
 import Header from './Header';
 import './LandingPage.css';
 
-const OPENAI_API_KEY = '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';
+const OPENAI_API_KEY = '';
 
 export default function LandingPage() {
   const [from, setFrom] = useState('');
